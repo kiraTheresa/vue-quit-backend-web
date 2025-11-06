@@ -1,0 +1,1 @@
+import{_ as t,j as o,b as n,r as c,o as s}from"./index-C8GKdD-n.js";const r={},_={style:{"text-align":"center",padding:"100px 0"}};function a(p,d){const e=c("el-empty");return s(),o("div",_,[n(e,{description:"页面不存在"})])}const l=t(r,[["render",a]]);export{l as default};
